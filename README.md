@@ -3,7 +3,7 @@
 Create a **GitHub** repository called “st2195_assignment_8” and include the following **Python scripts**, and a README.md file.
 
 1. “assignment_8_1.ipynb” to replicate assignment 7 in Python. [5 points]
-(1) Generate a series of bar charts to describe the gender, ticket class and survival of the passengers onboard.
+1) Generate a series of bar charts to describe the gender, ticket class and survival of the passengers onboard.
 2) Generate a histogram for the passengers’ age. Furthermore, describe the passengers’ age using the following two boxplots: age per ticket class and age based on survival.
 3) Generate a histogram for the travel fare and a table showing the number of people who did not pay.
 4) A chart of your choice to describe the family size per ticket class.
